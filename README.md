@@ -2,7 +2,7 @@
   API <br> ANBIMA
 </h1>
 
-Elaborarei uma API em NodeJS para facilitar a consulta da tabela ANBIMA:
+Elaborei uma API em NodeJS para facilitar a consulta da tabela ANBIMA:
 
 Referência:
 https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/taxasOnline.asp
