@@ -106,7 +106,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/04/2020",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482798&nome=LTN%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2012:05:07&codigo=10&vencimento=2020-04-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/04/2020</font>                     </a>",
          "Código ISIN": "BRSTNCLTN7J0",
          "Provedor": "SELIC",
          "Edital": null,
@@ -253,7 +253,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/07/2020",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482803&nome=LTN%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:37:04&codigo=10&vencimento=2020-07-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/07/2020</font>                     </a>",
          "Código ISIN": "BRSTNCLTN7F8",
          "Provedor": "SELIC",
          "Edital": null,
@@ -526,7 +526,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/04/2021",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482797&nome=LTN%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:58:06&codigo=10&vencimento=2021-04-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/04/2021</font>                     </a>",
          "Código ISIN": "BRSTNCLTN7P7",
          "Provedor": "SELIC",
          "Edital": null,
@@ -673,7 +673,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/07/2021",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482922&nome=LTN%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:30:06&codigo=10&vencimento=2021-07-01&referencia=2020-02-04&codoper=4052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/07/2021</font>                     </a>",
          "Código ISIN": "BRSTNCLTN7I2",
          "Provedor": "SELIC",
          "Edital": null,
@@ -694,7 +694,7 @@
          "Volume Negociado (R$)": "146.663.228,61"
       },
       {
-         "Vencimento": "01/07/2021",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482802&nome=LTN%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:52:09&codigo=10&vencimento=2021-07-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/07/2021</font>                     </a>",
          "Código ISIN": "BRSTNCLTN7I2",
          "Provedor": "SELIC",
          "Edital": null,
@@ -757,7 +757,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/10/2021",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482796&nome=LTN%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2010:36:08&codigo=10&vencimento=2021-10-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/10/2021</font>                     </a>",
          "Código ISIN": "BRSTNCLTN7R3",
          "Provedor": "SELIC",
          "Edital": null,
@@ -904,7 +904,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/01/2022",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482920&nome=LTN%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:25:08&codigo=10&vencimento=2022-01-01&referencia=2020-02-04&codoper=4052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/01/2022</font>                     </a>",
          "Código ISIN": "BRSTNCLTN7K8",
          "Provedor": "SELIC",
          "Edital": null,
@@ -925,7 +925,7 @@
          "Volume Negociado (R$)": "228.396.587,00"
       },
       {
-         "Vencimento": "01/01/2022",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482790&nome=LTN%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2012:00:07&codigo=10&vencimento=2022-01-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/01/2022</font>                     </a>",
          "Código ISIN": "BRSTNCLTN7K8",
          "Provedor": "SELIC",
          "Edital": null,
@@ -988,7 +988,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/04/2022",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482793&nome=LTN%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:35:01&codigo=10&vencimento=2022-04-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/04/2022</font>                     </a>",
          "Código ISIN": "BRSTNCLTN7T9",
          "Provedor": "SELIC",
          "Edital": null,
@@ -1135,7 +1135,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/07/2022",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482791&nome=LTN%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2010:57:04&codigo=10&vencimento=2022-07-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/07/2022</font>                     </a>",
          "Código ISIN": "BRSTNCLTN7O0",
          "Provedor": "SELIC",
          "Edital": null,
@@ -1156,7 +1156,7 @@
          "Volume Negociado (R$)": "185.897.649,17"
       },
       {
-         "Vencimento": "01/07/2022",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482921&nome=LTN%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:25:08&codigo=10&vencimento=2022-07-01&referencia=2020-02-04&codoper=4052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/07/2022</font>                     </a>",
          "Código ISIN": "BRSTNCLTN7O0",
          "Provedor": "SELIC",
          "Edital": null,
@@ -1303,7 +1303,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/07/2023",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482965&nome=LTN%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2012:01:06&codigo=10&vencimento=2023-07-01&referencia=2020-02-04&codoper=4052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/07/2023</font>                     </a>",
          "Código ISIN": "BRSTNCLTN7Q5",
          "Provedor": "SELIC",
          "Edital": null,
@@ -1324,7 +1324,7 @@
          "Volume Negociado (R$)": "41.505.348,65"
       },
       {
-         "Vencimento": "01/07/2023",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482785&nome=LTN%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2012:07:07&codigo=10&vencimento=2023-07-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/07/2023</font>                     </a>",
          "Código ISIN": "BRSTNCLTN7Q5",
          "Provedor": "SELIC",
          "Edital": null,
@@ -1471,7 +1471,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/01/2024",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482787&nome=LTN%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:53:01&codigo=10&vencimento=2024-01-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/01/2024</font>                     </a>",
          "Código ISIN": "BRSTNCLTN7S1",
          "Provedor": "SELIC",
          "Edital": null,
@@ -1620,7 +1620,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/01/2021",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482788&nome=NTN-F%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2010:32:09&codigo=95&vencimento=2021-01-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/01/2021</font>                     </a>",
          "Código ISIN": "BRSTNCNTF0N5",
          "Provedor": "SELIC",
          "Edital": null,
@@ -1767,7 +1767,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/01/2023",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482789&nome=NTN-F%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:46:01&codigo=95&vencimento=2023-01-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/01/2023</font>                     </a>",
          "Código ISIN": "BRSTNCNTF147",
          "Provedor": "SELIC",
          "Edital": null,
@@ -1788,7 +1788,7 @@
          "Volume Negociado (R$)": "109.433.408,67"
       },
       {
-         "Vencimento": "01/01/2023",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482963&nome=NTN-F%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:56:00&codigo=95&vencimento=2023-01-01&referencia=2020-02-04&codoper=4052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/01/2023</font>                     </a>",
          "Código ISIN": "BRSTNCNTF147",
          "Provedor": "SELIC",
          "Edital": null,
@@ -1935,7 +1935,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/01/2025",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482782&nome=NTN-F%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:57:06&codigo=95&vencimento=2025-01-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/01/2025</font>                     </a>",
          "Código ISIN": "BRSTNCNTF170",
          "Provedor": "SELIC",
          "Edital": null,
@@ -2061,7 +2061,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/01/2027",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482783&nome=NTN-F%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:55:01&codigo=95&vencimento=2027-01-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/01/2027</font>                     </a>",
          "Código ISIN": "BRSTNCNTF1P8",
          "Provedor": "SELIC",
          "Edital": null,
@@ -2208,7 +2208,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/01/2029",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482784&nome=NTN-F%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:41:02&codigo=95&vencimento=2029-01-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/01/2029</font>                     </a>",
          "Código ISIN": "BRSTNCNTF1Q6",
          "Provedor": "SELIC",
          "Edital": null,
@@ -2355,7 +2355,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/01/2031",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482786&nome=NTN-F%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:57:07&codigo=95&vencimento=2031-01-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/01/2031</font>                     </a>",
          "Código ISIN": "BRSTNCNTF204",
          "Provedor": "SELIC",
          "Edital": null,
@@ -2420,7 +2420,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "15/08/2020",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482769&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:25:09&codigo=76&vencimento=2020-08-15&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/08/2020</font>                     </a>",
          "Código ISIN": "BRSTNCNTB3A0",
          "Provedor": "SELIC",
          "Edital": null,
@@ -2567,7 +2567,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "15/05/2021",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482892&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:10:06&codigo=76&vencimento=2021-05-15&referencia=2020-02-04&codoper=4052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/05/2021</font>                     </a>",
          "Código ISIN": "BRSTNCNTB4T8",
          "Provedor": "SELIC",
          "Edital": null,
@@ -2588,7 +2588,7 @@
          "Volume Negociado (R$)": "35.491.947,76"
       },
       {
-         "Vencimento": "15/05/2021",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482770&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:42:00&codigo=76&vencimento=2021-05-15&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/05/2021</font>                     </a>",
          "Código ISIN": "BRSTNCNTB4T8",
          "Provedor": "SELIC",
          "Edital": null,
@@ -2735,7 +2735,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "15/08/2022",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482956&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:50:00&codigo=76&vencimento=2022-08-15&referencia=2020-02-04&codoper=4052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/08/2022</font>                     </a>",
          "Código ISIN": "BRSTNCNTB3Y0",
          "Provedor": "SELIC",
          "Edital": null,
@@ -2756,7 +2756,7 @@
          "Volume Negociado (R$)": "785.763,25"
       },
       {
-         "Vencimento": "15/08/2022",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482771&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2012:00:07&codigo=76&vencimento=2022-08-15&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/08/2022</font>                     </a>",
          "Código ISIN": "BRSTNCNTB3Y0",
          "Provedor": "SELIC",
          "Edital": null,
@@ -2924,7 +2924,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "15/05/2023",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482961&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:56:04&codigo=76&vencimento=2023-05-15&referencia=2020-02-04&codoper=4052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/05/2023</font>                     </a>",
          "Código ISIN": "BRSTNCNTB4O9",
          "Provedor": "SELIC",
          "Edital": null,
@@ -2945,7 +2945,7 @@
          "Volume Negociado (R$)": "37.693.932,53"
       },
       {
-         "Vencimento": "15/05/2023",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482772&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2012:04:06&codigo=76&vencimento=2023-05-15&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/05/2023</font>                     </a>",
          "Código ISIN": "BRSTNCNTB4O9",
          "Provedor": "SELIC",
          "Edital": null,
@@ -3092,7 +3092,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "15/08/2024",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482962&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:56:00&codigo=76&vencimento=2024-08-15&referencia=2020-02-04&codoper=4052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/08/2024</font>                     </a>",
          "Código ISIN": "BRSTNCNTB096",
          "Provedor": "SELIC",
          "Edital": null,
@@ -3113,7 +3113,7 @@
          "Volume Negociado (R$)": "39.172.004,25"
       },
       {
-         "Vencimento": "15/08/2024",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482773&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:59:07&codigo=76&vencimento=2024-08-15&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/08/2024</font>                     </a>",
          "Código ISIN": "BRSTNCNTB096",
          "Provedor": "SELIC",
          "Edital": null,
@@ -3260,7 +3260,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "15/05/2025",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482874&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:22:01&codigo=76&vencimento=2025-05-15&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/05/2025</font>                     </a>",
          "Código ISIN": "BRSTNCNTB633",
          "Provedor": "SELIC",
          "Edital": null,
@@ -3281,7 +3281,7 @@
          "Volume Negociado (R$)": "356.331.137,08"
       },
       {
-         "Vencimento": "15/05/2025",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482918&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:24:07&codigo=76&vencimento=2025-05-15&referencia=2020-02-04&codoper=4052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/05/2025</font>                     </a>",
          "Código ISIN": "BRSTNCNTB633",
          "Provedor": "SELIC",
          "Edital": null,
@@ -3302,7 +3302,7 @@
          "Volume Negociado (R$)": "39.081.399,55"
       },
       {
-         "Vencimento": "15/05/2025",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalha_leilao.asp?Parametros=&IDRESUMO=1482957&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:47:09&codigo=76&vencimento=2025-05-15&referencia=2020-02-04&codoper=2052v&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/05/2025</font>                     </a>",
          "Código ISIN": "NAOHA",
          "Provedor": "LEILÃO",
          "Edital": 48,
@@ -3449,7 +3449,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "15/08/2026",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482774&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2012:07:02&codigo=76&vencimento=2026-08-15&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/08/2026</font>                     </a>",
          "Código ISIN": "BRSTNCNTB4U6",
          "Provedor": "SELIC",
          "Edital": null,
@@ -3596,7 +3596,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "15/08/2028",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482919&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:56:00&codigo=76&vencimento=2028-08-15&referencia=2020-02-04&codoper=4052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/08/2028</font>                     </a>",
          "Código ISIN": "BRSTNCNTB4X0",
          "Provedor": "SELIC",
          "Edital": null,
@@ -3617,7 +3617,7 @@
          "Volume Negociado (R$)": "83.605.090,59"
       },
       {
-         "Vencimento": "15/08/2028",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482775&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2012:03:06&codigo=76&vencimento=2028-08-15&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/08/2028</font>                     </a>",
          "Código ISIN": "BRSTNCNTB4X0",
          "Provedor": "SELIC",
          "Edital": null,
@@ -3764,7 +3764,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "15/08/2030",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalha_leilao.asp?Parametros=&IDRESUMO=1482958&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:47:09&codigo=76&vencimento=2030-08-15&referencia=2020-02-04&codoper=2052v&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/08/2030</font>                     </a>",
          "Código ISIN": "NAOHA",
          "Provedor": "LEILÃO",
          "Edital": 48,
@@ -3785,7 +3785,7 @@
          "Volume Negociado (R$)": "51.366.357,60"
       },
       {
-         "Vencimento": "15/08/2030",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482776&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:52:04&codigo=76&vencimento=2030-08-15&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/08/2030</font>                     </a>",
          "Código ISIN": "BRSTNCNTB3B8",
          "Provedor": "SELIC",
          "Edital": null,
@@ -3806,7 +3806,7 @@
          "Volume Negociado (R$)": "809.279.840,77"
       },
       {
-         "Vencimento": "15/08/2030",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482964&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:56:03&codigo=76&vencimento=2030-08-15&referencia=2020-02-04&codoper=4052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/08/2030</font>                     </a>",
          "Código ISIN": "BRSTNCNTB3B8",
          "Provedor": "SELIC",
          "Edital": null,
@@ -3953,7 +3953,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "15/05/2035",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482777&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:55:06&codigo=76&vencimento=2035-05-15&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/05/2035</font>                     </a>",
          "Código ISIN": "BRSTNCNTB0O7",
          "Provedor": "SELIC",
          "Edital": null,
@@ -4079,7 +4079,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "15/08/2040",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482778&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:44:02&codigo=76&vencimento=2040-08-15&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/08/2040</font>                     </a>",
          "Código ISIN": "BRSTNCNTB3C6",
          "Provedor": "SELIC",
          "Edital": null,
@@ -4100,7 +4100,7 @@
          "Volume Negociado (R$)": "7.174.458,53"
       },
       {
-         "Vencimento": "15/08/2040",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalha_leilao.asp?Parametros=&IDRESUMO=1482959&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:47:00&codigo=76&vencimento=2040-08-15&referencia=2020-02-04&codoper=2052v&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/08/2040</font>                     </a>",
          "Código ISIN": "NAOHA",
          "Provedor": "LEILÃO",
          "Edital": 48,
@@ -4247,7 +4247,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "15/05/2045",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482779&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:44:02&codigo=76&vencimento=2045-05-15&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/05/2045</font>                     </a>",
          "Código ISIN": "BRSTNCNTB0A6",
          "Provedor": "SELIC",
          "Edital": null,
@@ -4373,7 +4373,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "15/08/2050",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482923&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:30:06&codigo=76&vencimento=2050-08-15&referencia=2020-02-04&codoper=4052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/08/2050</font>                     </a>",
          "Código ISIN": "BRSTNCNTB3D4",
          "Provedor": "SELIC",
          "Edital": null,
@@ -4394,7 +4394,7 @@
          "Volume Negociado (R$)": "979.861,43"
       },
       {
-         "Vencimento": "15/08/2050",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482780&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:55:02&codigo=76&vencimento=2050-08-15&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/08/2050</font>                     </a>",
          "Código ISIN": "BRSTNCNTB3D4",
          "Provedor": "SELIC",
          "Edital": null,
@@ -4499,7 +4499,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "15/05/2055",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482781&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:44:04&codigo=76&vencimento=2055-05-15&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/05/2055</font>                     </a>",
          "Código ISIN": "BRSTNCNTB4Q4",
          "Provedor": "SELIC",
          "Edital": null,
@@ -4520,7 +4520,7 @@
          "Volume Negociado (R$)": "22.242.551,22"
       },
       {
-         "Vencimento": "15/05/2055",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalha_leilao.asp?Parametros=&IDRESUMO=1482960&nome=NTN-B%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:47:00&codigo=76&vencimento=2055-05-15&referencia=2020-02-04&codoper=2052v&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             15/05/2055</font>                     </a>",
          "Código ISIN": "NAOHA",
          "Provedor": "LEILÃO",
          "Edital": 48,
@@ -4608,7 +4608,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/03/2020",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482924&nome=LFT%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:38:04&codigo=21&vencimento=2020-03-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/03/2020</font>                     </a>",
          "Código ISIN": "BRSTNCLF1R25",
          "Provedor": "SELIC",
          "Edital": null,
@@ -4650,7 +4650,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/09/2020",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482941&nome=LFT%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:42:03&codigo=21&vencimento=2020-09-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/09/2020</font>                     </a>",
          "Código ISIN": "BRSTNCLF1R33",
          "Provedor": "SELIC",
          "Edital": null,
@@ -4692,7 +4692,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/03/2021",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482833&nome=LFT%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:42:07&codigo=21&vencimento=2021-03-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/03/2021</font>                     </a>",
          "Código ISIN": "BRSTNCLF1R41",
          "Provedor": "SELIC",
          "Edital": null,
@@ -4734,7 +4734,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/09/2021",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482795&nome=LFT%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:55:07&codigo=21&vencimento=2021-09-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/09/2021</font>                     </a>",
          "Código ISIN": "BRSTNCLF1R58",
          "Provedor": "SELIC",
          "Edital": null,
@@ -4776,7 +4776,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/03/2022",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482800&nome=LFT%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:42:01&codigo=21&vencimento=2022-03-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/03/2022</font>                     </a>",
          "Código ISIN": "BRSTNCLF1R66",
          "Provedor": "SELIC",
          "Edital": null,
@@ -4818,7 +4818,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/09/2022",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482938&nome=LFT%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:49:04&codigo=21&vencimento=2022-09-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/09/2022</font>                     </a>",
          "Código ISIN": "BRSTNCLF1R74",
          "Provedor": "SELIC",
          "Edital": null,
@@ -4860,7 +4860,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/03/2023",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482801&nome=LFT%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:52:08&codigo=21&vencimento=2023-03-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/03/2023</font>                     </a>",
          "Código ISIN": "BRSTNCLF1R82",
          "Provedor": "SELIC",
          "Edital": null,
@@ -4902,7 +4902,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/09/2023",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482940&nome=LFT%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:59:01&codigo=21&vencimento=2023-09-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/09/2023</font>                     </a>",
          "Código ISIN": "BRSTNCLF1R90",
          "Provedor": "SELIC",
          "Edital": null,
@@ -4944,7 +4944,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/03/2024",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482799&nome=LFT%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:49:04&codigo=21&vencimento=2024-03-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/03/2024</font>                     </a>",
          "Código ISIN": "BRSTNCLF1RA8",
          "Provedor": "SELIC",
          "Edital": null,
@@ -4986,7 +4986,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/09/2024",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482939&nome=LFT%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:42:08&codigo=21&vencimento=2024-09-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/09/2024</font>                     </a>",
          "Código ISIN": "BRSTNCLF0008",
          "Provedor": "SELIC",
          "Edital": null,
@@ -5028,7 +5028,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/03/2025",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482794&nome=LFT%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:36:05&codigo=21&vencimento=2025-03-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/03/2025</font>                     </a>",
          "Código ISIN": "BRSTNCLF1RC4",
          "Provedor": "SELIC",
          "Edital": null,
@@ -5070,7 +5070,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/09/2025",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482891&nome=LFT%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:42:05&codigo=21&vencimento=2025-09-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/09/2025</font>                     </a>",
          "Código ISIN": "BRSTNCLF1RD2",
          "Provedor": "SELIC",
          "Edital": null,
@@ -5112,7 +5112,7 @@
          "Volume Negociado (R$)": ""
       },
       {
-         "Vencimento": "01/03/2026",
+         "Vencimento": "<a style=\"color:green\" onmouseover=\"javascript:return window.status='';\" href=\"https://www.anbima.com.br/sistemas/taxasonline/consulta/versao/1.0018/detalhaop.asp?Parametros=&IDRESUMO=1482792&nome=LFT%20%20%20%20%20%20%20&provedor=SELIC&dtult=04/02/2020%2011:42:06&codigo=21&vencimento=2026-03-01&referencia=2020-02-04&codoper=1052&idioma=pt&dbNome=&dataref=04/02/2020\" title=\"Clique aqui para ver o histórico de negociações com este vencimento\">                         <font size=\"1pt\">                             01/03/2026</font>                     </a>",
          "Código ISIN": "BRSTNCLF1RE0",
          "Provedor": "SELIC",
          "Edital": null,
